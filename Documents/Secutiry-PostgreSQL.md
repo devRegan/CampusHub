@@ -1,4 +1,4 @@
-# Secutiry RLS 
+# RLS 
 ```bash
 -- =====================================================
 -- COLLEGE SHOWCASE DATABASE SETUP (Complete & Updated)
